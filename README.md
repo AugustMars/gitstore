@@ -1,2 +1,0 @@
-# gitstore
-AugustMars
